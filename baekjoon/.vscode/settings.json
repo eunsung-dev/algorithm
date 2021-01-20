@@ -3,6 +3,8 @@
         "algorithm": "cpp",
         "iostream": "cpp",
         "string": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp"
     }
 }
